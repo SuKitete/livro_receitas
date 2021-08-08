@@ -11,6 +11,7 @@
  - 1 copo de cogumelos
  - 1 copo de creme de leite
  - batata palha a gosto
+ - 1 sachê de sazon de frango
 ### Modo de preparo
 1. Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
